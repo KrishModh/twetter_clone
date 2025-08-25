@@ -36,7 +36,7 @@ It does not include backend functionality such as posting, liking, following, or
 ## 📂 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/twitter-clone-tailwind.git
+   git clone https://github.com/KrishModh /twetter_clone
 Open the index.html file in your browser.
 
 Explore the UI and interact with design elements.
@@ -55,6 +55,6 @@ If you’d like to improve the UI or add new features, feel free to fork this re
 📧 Contact
 Created by Krish Modh
 
-GitHub: @krish2good
+GitHub: @KrishModh 
 
 LinkedIn: https://www.linkedin.com/in/krish-modh-b38447300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
