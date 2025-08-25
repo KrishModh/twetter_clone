@@ -21,7 +21,8 @@ It is not a working model – only the **frontend design** to showcase the look 
 
 ## 📸 Preview
 
-<img width="2560" height="1440" alt="Screenshot (214)" src="https://github.com/user-attachments/assets/6e2a1a06-306f-49c0-a831-7fcebe124932" />
+<img width="2560" height="1440" alt="Screenshot (218)" src="https://github.com/user-attachments/assets/35d82fc7-dad4-4a6c-9b95-b59e103d18c8" />
+<img width="2560" height="1440" alt="Screenshot (219)" src="https://github.com/user-attachments/assets/69e47dfb-1393-42a1-8157-72ee3ab6537d" />
 
 
 ---
@@ -52,8 +53,8 @@ Contributions are welcome!
 If you’d like to improve the UI or add new features, feel free to fork this repo and submit a pull request.
 
 📧 Contact
-Created by [Your Name]
+Created by Krish Modh
 
-GitHub: @your-username
+GitHub: @krish2good
 
-LinkedIn: [Your LinkedIn Profile]
+LinkedIn: https://www.linkedin.com/in/krish-modh-b38447300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
